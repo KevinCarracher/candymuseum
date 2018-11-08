@@ -47,6 +47,10 @@ body {
     font-size: 4rem;
 }
 
+.navbar.scrolled {
+    background-color: rgba(195, 128, 233, 0.712);
+}
+
 @media (max-width: 1200px) {
     #headingGroup h1 {
         font-weight: 100;
